@@ -1,0 +1,2 @@
+
+vec <- c("hola mundo")
